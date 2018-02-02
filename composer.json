@@ -37,5 +37,6 @@
     },
     "require-dev": {
         "phpunit/php-timer": "^1.0."
-    }
+    },
+    "bin": ["bin/rad-builder"]
 }
