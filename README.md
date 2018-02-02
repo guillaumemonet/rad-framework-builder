@@ -6,7 +6,7 @@ RAD : Builder Service
 [![Total Downloads](https://poser.pugx.org/rad/rad-framework-builder/downloads)](https://packagist.org/packages/rad/rad-framework-builder)
 [![Latest Unstable Version](https://poser.pugx.org/rad/rad-framework-builder/v/unstable)](https://packagist.org/packages/rad/rad-framework-builder)
 [![License](https://poser.pugx.org/rad/rad-framework/license)](https://packagist.org/packages/rad/rad-framework-builder)
-[![Maintainability](https://api.codeclimate.com/v1/badges/a8004edb8c7a4a82773e/maintainability)](https://codeclimate.com/github/guillaumemonet/rad-framework-builder/maintainability)
+[![Maintainability](https://api.codeclimate.com/v1/badges/7fe5b26b29ba7fd7bd10/maintainability)](https://codeclimate.com/github/guillaumemonet/rad-framework-builder/maintainability)
 
 ## Installation
 
