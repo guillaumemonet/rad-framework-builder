@@ -101,7 +101,7 @@ trait GenerateTrait {
             $column->type_sql = "\\PDO::PARAM_INT";
             $column->type_php = "boolean";
         } else if (strstr($row["Type"], "blob") !== false) {
-            $column->type_sql = "\\PDO::PARAM_LOB";
+            $column->type_sql = "\\PDO::PARAM_BLOB";
             $column->type_php = "binary";
         } else if (strstr($row["Type"], "int") !== false) {
             $column->type_sql = "\\PDO::PARAM_INT";
