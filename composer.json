@@ -38,13 +38,5 @@
     "require-dev": {
         "phpunit/php-timer": "^1.0."
     },
-    "scripts": {
-        "post-install-cmd": [
-            "Rad\\Composer\\Manager::installConfig"
-        ],
-        "post-update-cmd": [
-            "Rad\\Composer\\Manager::installConfig"
-        ]
-    },
     "bin": ["bin/rad-builder"]
 }
