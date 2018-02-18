@@ -1,12 +1,13 @@
 {
     "name": "rad/rad-framework-builder",
-    "description": "Build classes and controllers skeletons from database.",
+    "description": "RAD Framework Build classes and controllers skeletons from database.",
     "authors": [
         {
             "name": "Guillaume Monet",
             "email": "guillaume.monet@free.fr"
         }
     ],
+    "license": "MIT",
     "autoload": {
         "psr-4": {
             "Rad\\": "src/Rad/"
